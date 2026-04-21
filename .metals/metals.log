@@ -1,0 +1,3 @@
+2026.04.21 23:45:30 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\java_labs\lab11-logging\.metals\lsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2026.04.21 23:45:35 INFO  logging to files C:\java_labs\lab11-logging\.metals\metals.log
+2026.04.21 23:45:35 INFO  Started: Metals version 1.6.7 in folders 'C:\java_labs\lab11-logging' for client Visual Studio Code 1.116.0.
