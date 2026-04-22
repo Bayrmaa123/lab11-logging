@@ -228,3 +228,202 @@ C:\java_labs\lab11-logging\src\main\java\com\lab11\BankAccount.java:52: error: u
 2026.04.22 00:40:01 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
 2026.04.22 00:40:01 INFO  Created report: Optional[file:///C:/java_labs/lab11-logging/src/main/java/com/lab11/BankAccount.java]
 2026.04.22 00:40:01 INFO  empty definition using pc, found symbol in pc: _empty_/Logger# (full report at: "C:\java_labs\lab11-logging\.metals\.reports\metals-full\2026-04-22\r_empty-definition_00-40-01-784.md")
+2026.04.22 00:43:58 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.22 00:44:07 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\BankAccount.java. Using fallback presentation compiler.
+2026.04.22 00:44:19 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:19 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:19 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:19 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:19 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:23 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:23 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:23 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:23 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+Apr 22, 2026 12:44:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 201
+2026.04.22 00:44:23 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:24 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:25 WARN  Running javac-semanticdb failed for file:///C:/java_labs/lab11-logging/src/main/java/com/lab11/Costumer.java. Output:
+
+2026.04.22 00:44:25 INFO  Created report: Optional[file:///C:/java_labs/lab11-logging/src/main/java/com/lab11/Costumer.java]
+2026.04.22 00:44:25 INFO  QDox parse error in file:///C:/java_labs/lab11-logging/src/main/java/com/lab11/Costumer.java (full report at: "C:\java_labs\lab11-logging\.metals\.reports\metals-full\2026-04-22\r_qdox-error_00-44-25-534.md")
+2026.04.22 00:44:25 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:25 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:24 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java
+2026.04.22 00:44:25 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:25 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:44:44 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:44:44 WARN  no build target for: C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java
+2026.04.22 00:44:44 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:44:44 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:44:44 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:44:45 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:44:52 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:44:58 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:45:01 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:45:01 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:45:02 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:45:02 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:45:02 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:45:03 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:45:05 WARN  no build target for: C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java
+2026.04.22 00:45:05 INFO  Created report: Optional[file:///C:/java_labs/lab11-logging/src/test/java/com/lab11/AppTest.java]
+2026.04.22 00:45:05 INFO  QDox parse error in file:///C:/java_labs/lab11-logging/src/test/java/com/lab11/AppTest.java (full report at: "C:\java_labs\lab11-logging\.metals\.reports\metals-full\2026-04-22\r_qdox-error_00-45-05-435.md")
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:12: error: unmappable character (0x8D) for encoding windows-1252
+        // Хүл�?�?гд�?ж буй үр дүн 1500.0 байх ё�?той
+                  ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:12: error: unmappable character (0x8D) for encoding windows-1252
+        // Хүл�?�?гд�?ж буй үр дүн 1500.0 байх ё�?той
+                    ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:12: error: unmappable character (0x8D) for encoding windows-1252
+        // Хүл�?�?гд�?ж буй үр дүн 1500.0 байх ё�?той
+                          ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:12: error: unmappable character (0x81) for encoding windows-1252
+        // Хүл�?�?гд�?ж буй үр дүн 1500.0 байх ё�?той
+                                                                    ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:20: error: unmappable character (0x8D) for encoding windows-1252
+        // Хүл�?�?гд�?ж буй үр дүн 600.0 байх ё�?той
+                  ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:20: error: unmappable character (0x8D) for encoding windows-1252
+        // Хүл�?�?гд�?ж буй үр дүн 600.0 байх ё�?той
+                    ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:20: error: unmappable character (0x8D) for encoding windows-1252
+        // Хүл�?�?гд�?ж буй үр дүн 600.0 байх ё�?той
+                          ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:20: error: unmappable character (0x81) for encoding windows-1252
+        // Хүл�?�?гд�?ж буй үр дүн 600.0 байх ё�?той
+                                                                   ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:27: error: unmappable character (0x8D) for encoding windows-1252
+        account.withdraw(500.0); // Үлд�?гд�?л хүр�?хгүй үе
+                                           ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:27: error: unmappable character (0x8D) for encoding windows-1252
+        account.withdraw(500.0); // Үлд�?гд�?л хүр�?хгүй үе
+                                                 ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:27: error: unmappable character (0x8D) for encoding windows-1252
+        account.withdraw(500.0); // Үлд�?гд�?л хүр�?хгүй үе
+                                                            ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:28: error: unmappable character (0x8D) for encoding windows-1252
+        // Үлд�?гд�?л х�?в�?�?р�?�? (100.0) үлд�?х ё�?той
+                  ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:28: error: unmappable character (0x8D) for encoding windows-1252
+        // Үлд�?гд�?л х�?в�?�?р�?�? (100.0) үлд�?х ё�?той
+                        ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:28: error: unmappable character (0x8D) for encoding windows-1252
+        // Үлд�?гд�?л х�?в�?�?р�?�? (100.0) үлд�?х ё�?той
+                               ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:28: error: unmappable character (0x8D) for encoding windows-1252
+        // Үлд�?гд�?л х�?в�?�?р�?�? (100.0) үлд�?х ё�?той
+                                   ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:28: error: unmappable character (0x8D) for encoding windows-1252
+        // Үлд�?гд�?л х�?в�?�?р�?�? (100.0) үлд�?х ё�?той
+                                     ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:28: error: unmappable character (0x8D) for encoding windows-1252
+        // Үлд�?гд�?л х�?в�?�?р�?�? (100.0) үлд�?х ё�?той
+                                         ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:28: error: unmappable character (0x8D) for encoding windows-1252
+        // Үлд�?гд�?л х�?в�?�?р�?�? (100.0) үлд�?х ё�?той
+                                           ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:28: error: unmappable character (0x8D) for encoding windows-1252
+        // Үлд�?гд�?л х�?в�?�?р�?�? (100.0) үлд�?х ё�?той
+                                                            ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:28: error: unmappable character (0x81) for encoding windows-1252
+        // Үлд�?гд�?л х�?в�?�?р�?�? (100.0) үлд�?х ё�?той
+                                                                   ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:31: error: unmappable character (0x8D) for encoding windows-1252
+    // App.java дотор н�?мж бичн�?
+                              ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:31: error: unmappable character (0x8D) for encoding windows-1252
+    // App.java дотор н�?мж бичн�?
+                                             ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:36: error: unmappable character (0x90) for encoding windows-1252
+    System.out.println("�?лдаа гарлаа, app.log-оо�? шалтгааныг нь харна уу.");
+                         ^
+2026.04.22 00:45:05 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:36: error: unmappable character (0x81) for encoding windows-1252
+    System.out.println("�?лдаа гарлаа, app.log-оо�? шалтгааныг нь харна уу.");
+                                                              ^
+2026.04.22 00:45:05 WARN  Running javac-semanticdb failed for file:///C:/java_labs/lab11-logging/src/test/java/com/lab11/AppTest.java. Output:
+
+2026.04.22 00:45:20 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:20 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java
+2026.04.22 00:45:20 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:20 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:20 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:29 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:32 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:33 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:34 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:40 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:49 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:49 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:54 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:54 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:54 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:54 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:56 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:59 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:45:59 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:46:00 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:46:00 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:46:02 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:46:04 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:46:04 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:46:05 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:46:06 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java
+2026.04.22 00:46:06 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java:21: error: unmappable character (0x90) for encoding windows-1252
+    // З�?СВ�?Р: null �?�?в�?л @ т�?мд�?г байхгүй үед шалгах
+          ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java:21: error: unmappable character (0x90) for encoding windows-1252
+    // З�?СВ�?Р: null �?�?в�?л @ т�?мд�?г байхгүй үед шалгах
+                ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java:21: error: unmappable character (0x8D) for encoding windows-1252
+    // З�?СВ�?Р: null �?�?в�?л @ т�?мд�?г байхгүй үед шалгах
+                           ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java:21: error: unmappable character (0x81) for encoding windows-1252
+    // З�?СВ�?Р: null �?�?в�?л @ т�?мд�?г байхгүй үед шалгах
+                             ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java:21: error: unmappable character (0x8D) for encoding windows-1252
+    // З�?СВ�?Р: null �?�?в�?л @ т�?мд�?г байхгүй үед шалгах
+                                 ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java:21: error: unmappable character (0x8D) for encoding windows-1252
+    // З�?СВ�?Р: null �?�?в�?л @ т�?мд�?г байхгүй үед шалгах
+                                          ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java:21: error: unmappable character (0x8D) for encoding windows-1252
+    // З�?СВ�?Р: null �?�?в�?л @ т�?мд�?г байхгүй үед шалгах
+                                                ^
+2026.04.22 00:47:42 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:47:44 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:47:44 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:47:44 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:47:57 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:48:31 INFO  no build target found for c:\java_labs\lab11-logging\src\main\java\com\lab11\Costumer.java. Using fallback presentation compiler.
+2026.04.22 00:48:31 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 00:48:31 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 00:48:31 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 00:48:31 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 00:48:32 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 00:49:47 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:47 WARN  no build target for: C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java
+2026.04.22 00:49:47 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:47 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:47 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:47 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:49 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:49 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:49 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:50 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:51 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:51 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:51 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:49:52 WARN  no build target for: C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java
+2026.04.22 00:49:52 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:31: error: unmappable character (0x8D) for encoding windows-1252
+        // Х�?вийн и-м�?йл ха�?г шалгах
+              ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:31: error: unmappable character (0x8D) for encoding windows-1252
+        // Х�?вийн и-м�?йл ха�?г шалгах
+                              ^
+C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:31: error: unmappable character (0x8F) for encoding windows-1252
+        // Х�?вийн и-м�?йл ха�?г шалгах
+                                         ^

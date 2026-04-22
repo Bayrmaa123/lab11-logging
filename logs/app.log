@@ -1,0 +1,4 @@
+2026-04-22 10:00:00 INFO  BankAccount:15 - Initialized
+2026-04-22 10:05:00 WARN  BankAccount:22 - Negative amount
+2026-04-22 10:10:00 ERROR Customer:45 - NullPointer detected
+2026-04-22 10:15:00 INFO  App:50 - Process finished
