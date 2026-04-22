@@ -427,3 +427,256 @@ C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:31: error: unmap
 C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java:31: error: unmappable character (0x8F) for encoding windows-1252
         // Х�?вийн и-м�?йл ха�?г шалгах
                                          ^
+2026.04.22 00:50:57 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 00:58:52 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 00:58:52 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java
+2026.04.22 00:58:52 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 00:58:52 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 00:58:52 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 00:58:52 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 00:58:53 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java
+2026.04.22 00:58:53 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:7: error: unmappable character (0x8D) for encoding windows-1252
+        // 1. Х�?вийн гүйлг�?�? (INFO)
+                 ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:7: error: unmappable character (0x8D) for encoding windows-1252
+        // 1. Х�?вийн гүйлг�?�? (INFO)
+                                      ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:7: error: unmappable character (0x8D) for encoding windows-1252
+        // 1. Х�?вийн гүйлг�?�? (INFO)
+                                        ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:13: error: unmappable character (0x8D) for encoding windows-1252
+        // 3. Үлд�?гдл�?�?�? их мөнгө авах (ERROR)
+                     ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:13: error: unmappable character (0x8D) for encoding windows-1252
+        // 3. Үлд�?гдл�?�?�? их мөнгө авах (ERROR)
+                             ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:13: error: unmappable character (0x8D) for encoding windows-1252
+        // 3. Үлд�?гдл�?�?�? их мөнгө авах (ERROR)
+                               ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:13: error: unmappable character (0x81) for encoding windows-1252
+        // 3. Үлд�?гдл�?�?�? их мөнгө авах (ERROR)
+                                 ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:16: error: unmappable character (0x8D) for encoding windows-1252
+        // 4. Х�?вийн зарлага (INFO)
+                 ^
+2026.04.22 03:32:40 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 03:32:40 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+Apr 22, 2026 3:32:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 456
+Apr 22, 2026 3:32:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 457
+2026.04.22 03:32:40 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 09:57:55 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 09:58:10 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 09:58:39 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 09:58:39 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 09:58:39 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+Apr 22, 2026 9:58:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 462
+Apr 22, 2026 9:58:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 463
+2026.04.22 09:59:51 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+Apr 22, 2026 10:00:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.22 10:00:03 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+Apr 22, 2026 10:00:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.22 10:05:36 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 10:05:36 WARN  no build target for: C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java
+2026.04.22 10:05:36 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 10:05:36 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 10:05:36 INFO  no build target found for C:\java_labs\lab11-logging\src\test\java\com\lab11\AppTest.java. Using fallback presentation compiler.
+2026.04.22 10:05:37 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:05:37 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java
+2026.04.22 10:05:37 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:05:37 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:05:37 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:05:37 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:13 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:20 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:20 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:51 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:51 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:51 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:51 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:52 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:52 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:52 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:52 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:53 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+2026.04.22 10:06:53 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java
+2026.04.22 10:06:53 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java. Using fallback presentation compiler.
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:5: error: unmappable character (0x90) for encoding windows-1252
+        // --- Б�?�?К�?Ы Д�?�?С�?Ы ЛОГ (�?лхам 2) ---
+                  ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:5: error: unmappable character (0x9D) for encoding windows-1252
+        // --- Б�?�?К�?Ы Д�?�?С�?Ы ЛОГ (�?лхам 2) ---
+                    ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:5: error: unmappable character (0x9D) for encoding windows-1252
+        // --- Б�?�?К�?Ы Д�?�?С�?Ы ЛОГ (�?лхам 2) ---
+                        ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:5: error: unmappable character (0x90) for encoding windows-1252
+        // --- Б�?�?К�?Ы Д�?�?С�?Ы ЛОГ (�?лхам 2) ---
+                               ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:5: error: unmappable character (0x9D) for encoding windows-1252
+        // --- Б�?�?К�?Ы Д�?�?С�?Ы ЛОГ (�?лхам 2) ---
+                                 ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:5: error: unmappable character (0x9D) for encoding windows-1252
+        // --- Б�?�?К�?Ы Д�?�?С�?Ы ЛОГ (�?лхам 2) ---
+                                     ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:5: error: unmappable character (0x90) for encoding windows-1252
+        // --- Б�?�?К�?Ы Д�?�?С�?Ы ЛОГ (�?лхам 2) ---
+                                                  ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:8: error: unmappable character (0x81) for encoding windows-1252
+        myAccount.withdraw(-50.0);  // WARN үү�?г�?н�?
+                                                 ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:8: error: unmappable character (0x8D) for encoding windows-1252
+        myAccount.withdraw(-50.0);  // WARN үү�?г�?н�?
+                                                     ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:8: error: unmappable character (0x8D) for encoding windows-1252
+        myAccount.withdraw(-50.0);  // WARN үү�?г�?н�?
+                                                         ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:9: error: unmappable character (0x81) for encoding windows-1252
+        myAccount.withdraw(3000.0); // ERROR үү�?г�?н�?
+                                                  ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:9: error: unmappable character (0x8D) for encoding windows-1252
+        myAccount.withdraw(3000.0); // ERROR үү�?г�?н�?
+                                                      ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:9: error: unmappable character (0x8D) for encoding windows-1252
+        myAccount.withdraw(3000.0); // ERROR үү�?г�?н�?
+                                                          ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:13: error: unmappable character (0x9D) for encoding windows-1252
+        // --- ХЭРЭГЛЭГЧИЙ�? �?ЛД�?�?�?Ы ЛОГ (�?лхам 3 - DEBUG хийх) ---
+                                      ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:13: error: unmappable character (0x90) for encoding windows-1252
+        // --- ХЭРЭГЛЭГЧИЙ�? �?ЛД�?�?�?Ы ЛОГ (�?лхам 3 - DEBUG хийх) ---
+                                         ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:13: error: unmappable character (0x90) for encoding windows-1252
+        // --- ХЭРЭГЛЭГЧИЙ�? �?ЛД�?�?�?Ы ЛОГ (�?лхам 3 - DEBUG хийх) ---
+                                               ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:13: error: unmappable character (0x90) for encoding windows-1252
+        // --- ХЭРЭГЛЭГЧИЙ�? �?ЛД�?�?�?Ы ЛОГ (�?лхам 3 - DEBUG хийх) ---
+                                                 ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:13: error: unmappable character (0x9D) for encoding windows-1252
+        // --- ХЭРЭГЛЭГЧИЙ�? �?ЛД�?�?�?Ы ЛОГ (�?лхам 3 - DEBUG хийх) ---
+                                                   ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:13: error: unmappable character (0x90) for encoding windows-1252
+        // --- ХЭРЭГЛЭГЧИЙ�? �?ЛД�?�?�?Ы ЛОГ (�?лхам 3 - DEBUG хийх) ---
+                                                                ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:14: error: unmappable character (0x8D) for encoding windows-1252
+        System.out.println("Customer debug �?х�?лл�?�?...");
+                                            ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:14: error: unmappable character (0x8D) for encoding windows-1252
+        System.out.println("Customer debug �?х�?лл�?�?...");
+                                                ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:14: error: unmappable character (0x8D) for encoding windows-1252
+        System.out.println("Customer debug �?х�?лл�?�?...");
+                                                      ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:14: error: unmappable character (0x8D) for encoding windows-1252
+        System.out.println("Customer debug �?х�?лл�?�?...");
+                                                        ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:17: error: unmappable character (0x8D) for encoding windows-1252
+            buggyCustomer.getDomain(); // Энд NullPointerException гарч, ERROR лог бичигд�?н�?
+                                                                                                          ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:17: error: unmappable character (0x8D) for encoding windows-1252
+            buggyCustomer.getDomain(); // Энд NullPointerException гарч, ERROR лог бичигд�?н�?
+                                                                                                              ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:19: error: unmappable character (0x8D) for encoding windows-1252
+            // Програмыг гацаахгүйн тулд алдааг �?нд барьж авна
+                                                                              ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:20: error: unmappable character (0x8D) for encoding windows-1252
+            System.err.println("Лог файл руу алдааг бичл�?�?.");
+                                                                             ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\App.java:20: error: unmappable character (0x8D) for encoding windows-1252
+            System.err.println("Лог файл руу алдааг бичл�?�?.");
+                                                                               ^
+2026.04.22 10:14:56 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:56 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java
+2026.04.22 10:14:56 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:56 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:56 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:56 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:58 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:58 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:58 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:59 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:59 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:59 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:59 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:14:59 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java
+2026.04.22 10:14:59 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:14: error: unmappable character (0x8D) for encoding windows-1252
+        // Параметрт лог х�?р�?гл�?х: {} ашиглана (String concat-аа�? зайл�?хийх)
+                                        ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:14: error: unmappable character (0x8D) for encoding windows-1252
+        // Параметрт лог х�?р�?гл�?х: {} ашиглана (String concat-аа�? зайл�?хийх)
+                                            ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:14: error: unmappable character (0x8D) for encoding windows-1252
+        // Параметрт лог х�?р�?гл�?х: {} ашиглана (String concat-аа�? зайл�?хийх)
+                                                  ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:14: error: unmappable character (0x81) for encoding windows-1252
+        // Параметрт лог х�?р�?гл�?х: {} ашиглана (String concat-аа�? зайл�?хийх)
+                                                                                               ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:14: error: unmappable character (0x81) for encoding windows-1252
+        // Параметрт лог х�?р�?гл�?х: {} ашиглана (String concat-аа�? зайл�?хийх)
+                                                                                                          ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:18: error: unmappable character (0x81) for encoding windows-1252
+    // Ма�?клах функц: Жиш�?�? нь bold@gmail.com -> bo***om болгоно
+            ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:18: error: unmappable character (0x8D) for encoding windows-1252
+    // Ма�?клах функц: Жиш�?�? нь bold@gmail.com -> bo***om болгоно
+                                         ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:18: error: unmappable character (0x8D) for encoding windows-1252
+    // Ма�?клах функц: Жиш�?�? нь bold@gmail.com -> bo***om болгоно
+                                           ^
+2026.04.22 10:16:31 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:31 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java
+2026.04.22 10:16:31 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:31 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:31 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:32 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:32 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:32 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:33 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:32 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:34 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:34 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+2026.04.22 10:16:34 WARN  no build target for: C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java
+2026.04.22 10:16:34 INFO  no build target found for C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java. Using fallback presentation compiler.
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:14: error: unmappable character (0x8D) for encoding windows-1252
+        // Параметрт лог х�?р�?гл�?х (String concatenation-аа�? зайл�?хийх)
+                                        ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:14: error: unmappable character (0x8D) for encoding windows-1252
+        // Параметрт лог х�?р�?гл�?х (String concatenation-аа�? зайл�?хийх)
+                                            ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:14: error: unmappable character (0x8D) for encoding windows-1252
+        // Параметрт лог х�?р�?гл�?х (String concatenation-аа�? зайл�?хийх)
+                                                  ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:14: error: unmappable character (0x81) for encoding windows-1252
+        // Параметрт лог х�?р�?гл�?х (String concatenation-аа�? зайл�?хийх)
+                                                                                 ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:14: error: unmappable character (0x81) for encoding windows-1252
+        // Параметрт лог х�?р�?гл�?х (String concatenation-аа�? зайл�?хийх)
+                                                                                            ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:18: error: unmappable character (0x8D) for encoding windows-1252
+    // И-м�?йл ха�?гийг ма�?клах функц (Жиш�?�?: bold@gmail.com -> bo***om)
+             ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:18: error: unmappable character (0x8F) for encoding windows-1252
+    // И-м�?йл ха�?гийг ма�?клах функц (Жиш�?�?: bold@gmail.com -> bo***om)
+                        ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:18: error: unmappable character (0x81) for encoding windows-1252
+    // И-м�?йл ха�?гийг ма�?клах функц (Жиш�?�?: bold@gmail.com -> bo***om)
+                                       ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:18: error: unmappable character (0x8D) for encoding windows-1252
+    // И-м�?йл ха�?гийг ма�?клах функц (Жиш�?�?: bold@gmail.com -> bo***om)
+                                                                    ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:18: error: unmappable character (0x8D) for encoding windows-1252
+    // И-м�?йл ха�?гийг ма�?клах функц (Жиш�?�?: bold@gmail.com -> bo***om)
+                                                                      ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:27: error: unmappable character (0x81) for encoding windows-1252
+            // Утгатай контек�?т болон ма�?клалт ашиглах
+                                           ^
+C:\java_labs\lab11-logging\src\main\java\com\lab11\Customer.java:27: error: unmappable character (0x81) for encoding windows-1252
+            // Утгатай контек�?т болон ма�?клалт ашиглах
+                                                               ^

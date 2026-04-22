@@ -11,22 +11,25 @@ public class Customer {
     public Customer(String name, String email) {
         this.name = name;
         this.email = email;
-        logger.debug("Customer created: name={}, email={}", name, email);
+        // Параметрт лог хэрэглэх (String concatenation-аас зайлсхийх)
+        logger.info("New customer created: name={}, email={}", name, mask(email));
+    }
+
+    // И-мэйл хаягийг масклах функц (Жишээ: bold@gmail.com -> bo***om)
+    private static String mask(String s) {
+        if (s == null || s.length() < 5) return "****";
+        return s.substring(0, 2) + "***" + s.substring(s.length() - 2);
     }
 
     public String getDomain() {
-    logger.trace("Entering getDomain()");
-    logger.debug("Current email value: {}", email);
-
-    // ЗАСВАР: null эсвэл @ тэмдэг байхгүй үед шалгах
-    if (email == null || !email.contains("@")) {
-        logger.warn("Invalid or missing email for customer: {}. Returning 'UNKNOWN'", name);
-        return "UNKNOWN";
+        logger.trace("Entering getDomain()");
+        if (email == null || !email.contains("@")) {
+            // Утгатай контекст болон масклалт ашиглах
+            logger.warn("Invalid email format for user {}: {}", name, mask(email));
+            return "UNKNOWN";
+        }
+        String domain = email.substring(email.indexOf("@") + 1).toUpperCase();
+        logger.info("Domain extracted: {}", domain);
+        return domain;
     }
-
-    String domain = email.substring(email.indexOf("@") + 1).toUpperCase();
-    logger.info("Domain successfully extracted: {}", domain);
-    logger.trace("Exiting getDomain()");
-    return domain;
-}
 }
